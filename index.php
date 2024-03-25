@@ -1,3 +1,3 @@
 <?php
-  echo'orya';
+  echo 'orya';
 ?>
